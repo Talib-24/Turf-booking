@@ -1,0 +1,6 @@
+{
+  "name": "Turfline - Turf Booking Platform",
+  "description": "Full-stack sports venue booking system with concurrent slot hold locking, Razorpay payments, and venue management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
